@@ -1,0 +1,6 @@
+* 
+	- Font-family: open sans
+
+Header
+	- Background: #161B22
+	- Color: #FFFFFFB3
