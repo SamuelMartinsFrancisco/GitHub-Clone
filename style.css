@@ -139,6 +139,7 @@
     padding: 32px;
     background: #101318;
     border-right: 1px solid rgba(255,255,255,0.09);
+    min-height: 600px;
 }
 
 .repositoriesArea p {
